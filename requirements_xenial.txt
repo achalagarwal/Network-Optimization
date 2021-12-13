@@ -41,7 +41,7 @@ kiwisolver==1.0.1
 language-selector==0.1
 lesscpy==0.13.0
 louis==2.6.4
-lxml==4.2.4
+lxml==4.6.5
 Mako==1.0.3
 MarkupSafe==1.0
 matplotlib==2.2.3
